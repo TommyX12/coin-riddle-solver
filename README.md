@@ -1,6 +1,7 @@
 # Coin Riddle Solver
 
 Counterfeit coin riddle: https://www.youtube.com/watch?v=tE2dZLDJSjA
+
 This script uses a genetic algorithm to solve the riddle by evolving strategies.
 
 # Usage
